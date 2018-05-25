@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="792aba08-7112-4d3d-b911-37865726e9c6" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/docker/container.md" afterPath="$PROJECT_DIR$/docker/container.md" />
+      <change beforePath="$PROJECT_DIR$/docker/components.md" afterPath="$PROJECT_DIR$/docker/components.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -47,12 +46,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="components.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="components.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/docker/components.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="105">
-                <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+              <first_editor relative-caret-position="90">
+                <caret line="6" column="69" lean-forward="false" selection-start-line="6" selection-start-column="69" selection-end-line="6" selection-end-column="69" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -60,7 +59,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="container.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="container.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/docker/container.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
@@ -94,8 +93,8 @@
         <option value="$PROJECT_DIR$/container/container.md" />
         <option value="$PROJECT_DIR$/PITCHME.md" />
         <option value="$PROJECT_DIR$/assets/css/PITCHME.css" />
-        <option value="$PROJECT_DIR$/docker/components.md" />
         <option value="$PROJECT_DIR$/docker/container.md" />
+        <option value="$PROJECT_DIR$/docker/components.md" />
       </list>
     </option>
   </component>
@@ -514,17 +513,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/docker/components.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="105">
-            <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/assets/image/docker-container.png">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -545,6 +533,17 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="75">
             <caret line="5" column="29" lean-forward="true" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docker/components.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="90">
+            <caret line="6" column="69" lean-forward="false" selection-start-line="6" selection-start-column="69" selection-end-line="6" selection-end-column="69" />
             <folding />
           </first_editor>
           <second_editor />
