@@ -1,7 +1,7 @@
-# Containers
+## Containers
 
 ---
-## Container vs Virtualization
+### Container vs Virtualization
 
 ![ContainerVsVirtualization](assets/image/containers-versus-virtual-machines-docker-inc-rightscale.jpg)
 

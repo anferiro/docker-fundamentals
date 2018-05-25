@@ -1,7 +1,17 @@
-# Docker Components
+## Docker Components
 
 ---
-| Docker Engine | Docker Images | Docker COntainers | 
+| Docker Engine | Docker Images | Docker Containers | 
 |---------------|---------------|-------------------|
 |Docker deamon/runtime| template (manifest) | shipping containers |
-| ![docker engine](assets/image/Docker_Engine.jpg) | ![docker image](assets/image/dockerimage.png) |   
+
+--- 
+### Docker Engine
+
+![docker engine](../assets/image/Docker_Engine.jpg) 
+
+---
+### Docker Images & Containers
+
+| ![docker image](../assets/image/dockerimage.png) |   
+
