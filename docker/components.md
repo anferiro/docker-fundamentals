@@ -13,5 +13,5 @@
 ---
 ### Docker Images & Containers
 
-| ![docker image](assets/image/dockerimage.png) |   
+![docker image](assets/image/dockerImage.png)  
 
