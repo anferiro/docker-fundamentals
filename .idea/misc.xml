@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_9" project-jdk-name="10.0" project-jdk-type="JavaSDK" />
+  <component name="SbtLocalSettings">
+    <option name="modificationStamps">
+      <map>
+        <entry key="$USER_HOME$/Downloads/funsets" value="1462337840000" />
+        <entry key="$USER_HOME$/calculator" value="1465328946000" />
+        <entry key="$PROJECT_DIR$/../../learning-scala/forcomp" value="1462334812000" />
+        <entry key="$PROJECT_DIR$/../../learning-scala/objsets" value="1462340846000" />
+        <entry key="$PROJECT_DIR$/../../learning-scala/patmat" value="1462398064000" />
+        <entry key="$PROJECT_DIR$/../../learning-scala/quickcheck" value="1464306170000" />
+      </map>
+    </option>
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+</project>
