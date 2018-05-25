@@ -3,7 +3,7 @@
 ---
 ## Container vs Virtualization
 
-![ContainerVsVirtualization](../assets/image/containers-versus-virtual-machines-docker-inc-rightscale.jpg)
+![ContainerVsVirtualization](assets/image/containers-versus-virtual-machines-docker-inc-rightscale.jpg)
 
 Note: 
 - Every VM requires an OS
@@ -11,7 +11,7 @@ Note:
 
 --- 
 
-![Container](../assets/image/docker-container.png) 
+![Container](assets/image/docker-container.png) 
 
 
 Note: lightweight than vm consumes less resources
