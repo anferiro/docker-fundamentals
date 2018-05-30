@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="792aba08-7112-4d3d-b911-37865726e9c6" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/docker/images.md" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/PITCHME.md" afterPath="$PROJECT_DIR$/PITCHME.md" />
-      <change beforePath="$PROJECT_DIR$/docker/components.md" afterPath="$PROJECT_DIR$/docker/components.md" />
-      <change beforePath="$PROJECT_DIR$/docker/container.md" afterPath="$PROJECT_DIR$/docker/container.md" />
-    </list>
+    <list default="true" id="792aba08-7112-4d3d-b911-37865726e9c6" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -117,7 +111,7 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="y" value="22" />
+    <option name="y" value="302" />
     <option name="width" value="1280" />
     <option name="height" value="717" />
   </component>
