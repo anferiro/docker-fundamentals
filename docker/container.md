@@ -22,3 +22,52 @@ Container is and isolated and independent instances of user spaces
 
 Note: Kernel namespaces allow to crete isolate instances 
 
+---
+
+```
+docker container run --publish 80:80 nginx
+```
+
+---
+
+```
+docker container run --publish 80:80 --detach nginx 
+// to run in background mode 
+```
+ 
+---
+
+list the containers
+
+```
+docker container list
+```
+
+Logs from a container
+
+```
+docker container logs webhost
+```
+
+---
+
+Process running into a container
+
+```
+docker container top webhost
+```
+
+---
+
+deleting a container
+
+```
+docker container rm webhost
+```
+
+```
+/// forcing to delete a running container
+docker container rm -f webhost
+```
+
+

@@ -8,10 +8,10 @@
 --- 
 ### Docker Engine
 
-![docker engine](../assets/image/Docker_Engine.jpg) 
+![docker engine](assets/image/Docker_Engine.jpg) 
 
 ---
 ### Docker Images & Containers
 
-| ![docker image](../assets/image/dockerimage.png) |   
+![docker image](assets/image/dockerImage.png)  
 
